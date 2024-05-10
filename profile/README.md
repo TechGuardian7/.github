@@ -1,5 +1,5 @@
 # Access our repositories
 
-- [Doc WolfGuardians](https://github.com/TechGuardian7/Doc_TechGuardian7)
-- [Front-end](https://github.com/TechGuardian7/front-end)
-- [Back-end](https://github.com/TechGuardian7/back-end)
+- [Doc WolfGuardians](https://github.com/WolfGuardians/Doc_WolfGuardians)
+- [Front-end](https://github.com/WolfGuardians/front-end)
+- [Back-end](https://github.com/WolfGuardians/back-end)
